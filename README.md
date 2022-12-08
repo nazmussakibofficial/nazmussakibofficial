@@ -2,7 +2,7 @@
 
 <br/>
 
-## :hammer: Techs I know:
+## :desktop_computer: Techs I know:
 
 <br>
 <p align="center">
