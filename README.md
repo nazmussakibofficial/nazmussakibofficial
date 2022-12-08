@@ -1,4 +1,4 @@
-![banner](/images/banner.png)
+![banner](images/banner.png)
 
 <br/>
 
@@ -6,12 +6,19 @@
 
 <br>
 <p align="center">
-
+<img height="50" src="images/icons/html-5.png"/>
+<img height="50" src="images/icons/css.png"/>
+<img height="50" src="images/icons/javascript.png"/>
+<img height="50" src="images/icons/react.png"/>
+<img height="50" src="images/icons/tailwind.png"/>
+<img height="50" src="images/icons/Bootsrap.png"/>
+<img height="50" src="images/icons/node.png"/>
+<img height="50" src="images/icons/express.png"/>
 </p>
 
 <br/>
 
-## :handshake: Connect with me on [<img height="75" src="/images/icons/linkedin.png">](https://www.linkedin.com/in/nazmus-sakib-b71682234/)
+# Connect with me on [<img height="50" src="images/icons/linkedin.png">](https://www.linkedin.com/in/nazmus-sakib-b71682234/)
 
 <br/>
 
