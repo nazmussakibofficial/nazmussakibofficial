@@ -11,7 +11,7 @@
 
 <br/>
 
-## :handshake: Connect with me on [<img height="75" src="/images/icons/linkedin.png">](https://www.linkedin.com/in/nazmus-sakib-b71682234/)
+## :handshake: Connect with me on [<img height="40" src="/images/icons/linkedin.png">](https://www.linkedin.com/in/nazmus-sakib-b71682234/)
 
 <br/>
 
