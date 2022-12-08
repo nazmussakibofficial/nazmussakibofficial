@@ -14,6 +14,7 @@
 <img height="50" src="images/icons/Bootsrap.png"/>
 <img height="50" src="images/icons/node.png"/>
 <img height="50" src="images/icons/express.png"/>
+<img height="50" src="images/icons/photoshop.png"/>
 </p>
 
 <br/>
