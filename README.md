@@ -1,7 +1,7 @@
-![I am a Front-end developer. ](/images/banner.png)
+![banner](/images/banner.png)
 
-## :iphone: Contact me
+## :iphone: Connect with me on LinkedIn
 
-[<p align="center"><img height="75" src="/images/linkedin.png">](https://www.linkedin.com/in/nazmus-sakib-b71682234/)
+[<img height="75" src="/images/icons/linkedin.png">](https://www.linkedin.com/in/nazmus-sakib-b71682234/)
 
 <br />
