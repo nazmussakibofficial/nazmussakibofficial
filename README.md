@@ -25,21 +25,21 @@
 
 ## :hammer: I’m currently working on:
 
-- Making different and unique websites with react
-- Making my personal blog
+- Enjoying my life as junior software engineer
+- Noting down my ideas for future projects
 
 ## :maple_leaf: I’m learning:
 
-- Next.js
-- Typescript
-- MongoDB
-- Material UI
-- Redux
+- Deep Learning
+- Spring Boot
+- How to assist in managing an enterprise level projects
+- Automation of difficult tasks
 
 ## :test_tube: In the future I will be exploring:
 
 - Making games with engine like unity
-- Making apps with flutter / react native
+- Making apps with flutter
+- Integrating Deep Learning in games to make them more immersive
 
 ## :video_game: I Like to:
 
