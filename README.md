@@ -71,6 +71,6 @@
 - 🎮 Grinding XP on Genshin Impact
 
 ## 🌐 Ping Me On 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmus-sakib-b71682234/) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmussakibofficial/) 
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nazmussakibofficial19@gmail.com)
-<!-- - [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://nazmussakibofficial19.com)  -->
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://nazmussakibofficial.github.io/my-portfolio/) 
