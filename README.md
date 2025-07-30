@@ -1,4 +1,4 @@
-![banner](images/banner.png)
+<!-- ![banner](images/banner.png)
 
 <br/>
 
@@ -44,5 +44,33 @@
 ## :video_game: I Like to:
 
 - Play Games
-- Watch Animes
+- Watch Animes -->
 
+<p align="center">
+  <img src="images/banner-2.png" />
+</p>
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css,angular,react,nextjs,nodejs,spring,express,postgres,mongodb,mysql" />
+  </a>
+</p>
+
+## 🧑‍💻 Whoami
+
+- 💼 I’m currently working as: `Junior Software Engineer`
+- 🌱 I’m learning: `Reactive Programming`
+- 📜 I’m preping for: `Certified Entry-Level Python Programmer`
+- 🔭 I will be working on: `A gear rental platform for outdoor enthusiasts.`
+
+## 🎮 Currently
+
+- 🎧 Lo-fi + VS Code = 💙
+- 🎮 Grinding XP on Genshin Impact
+
+## 🌐 Ping Me On 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmus-sakib-b71682234/) 
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nazmussakibofficial19@gmail.com)
+<!-- - [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://nazmussakibofficial19.com)  -->
