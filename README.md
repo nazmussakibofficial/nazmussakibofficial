@@ -47,7 +47,7 @@
 - Watch Animes -->
 
 <p align="center">
-  <img src="images/banner-2.png" />
+  <img src="./images/banner-2.png" />
 </p>
 
 ## 🪄 Skill Tree
