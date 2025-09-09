@@ -6,16 +6,16 @@
 > Leveling up one branch at a time.
 
 ### ⚔️ Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,py,java,html,css)
+![Languages](https://skillicons.dev/icons?i=py,js,ts,css,html)
 
-### 🧙 Frameworks & Libraries
-![Frameworks & Libraries](https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,spring,express)
+### 🧙 Frameworks
+![Frameworks](https://skillicons.dev/icons?i=angular,react,nextjs,express,django)
 
 ### 🏹 Databases
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql)
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb)
 
-### 🛡️ Tools & Platforms
-![Tools & Platforms](https://skillicons.dev/icons?i=vscode,git)
+### 🛡️ Tools
+![Tools](https://skillicons.dev/icons?i=vscode,git,postman)
 
 ## 📜 In this quest phase
 
