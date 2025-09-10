@@ -20,9 +20,9 @@
 ## 📜 In this quest phase
 
 - 💼 I’m currently working as: `Junior Software Engineer`
-- 🌱 I’m learning: `Reactive Programming`
+- 🌱 I’m learning: `Django`
 - 📜 I’m preping for: `Certified Entry-Level Python Programmer`
-- 🔭 I will be working on: `A gear rental platform for outdoor enthusiasts.`
+- 🔭 I will be working on: `An OAuth app using Django`
 - 🎮 Grinding XP on Genshin Impact
 
 ## 🔮 Summon Me for a Quest
