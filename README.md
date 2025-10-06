@@ -6,16 +6,16 @@
 > Leveling up one branch at a time.
 
 ### ⚔️ Languages
-![Languages](https://skillicons.dev/icons?i=py,js,ts,css,html)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=py,js,ts,css,html)
 
 ### 🧙 Frameworks
-![Frameworks](https://skillicons.dev/icons?i=angular,react,nextjs,express,django)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=angular,nextjs,nestjs,django,tailwindcss)
 
 ### 🏹 Databases
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=postgres)
 
 ### 🛡️ Tools
-![Tools](https://skillicons.dev/icons?i=vscode,git,postman)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,dbeaver,chromedevtools,postman)
 
 ## 📜 In this quest phase
 
