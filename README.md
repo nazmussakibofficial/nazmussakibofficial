@@ -2,7 +2,7 @@
   <img src="images/banner-2.png" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="images/avatar.jpeg">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif">
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a Software Engineer 💼 with a passion for building structured systems and scalable applications. I love exploring new technologies 💻 and improving workflows through smart, logic-driven solutions. I enjoy creating meaningful projects 🚀 that solve real problems and make life easier for others.
